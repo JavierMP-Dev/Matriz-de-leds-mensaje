@@ -1,1 +1,1 @@
-Este proyecto ayuda a mostrar mensajes en una matriz de led max72 con ayuda de arduino y la concexion a java establece una interfaz de usuario
+Este proyecto ayuda a mostrar mensajes en una matriz de led max7219 con ayuda de arduino y la concexion a java establece una interfaz de usuario, la libreria que ayuda a conectar java cona rduino se llama Panama Intek
